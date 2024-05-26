@@ -17,7 +17,10 @@ To get started with the project, you need to have Node.js and npm installed on y
    ```sh
    git clone https://github.com/your-username/microsoft-home-page-clone.git
 
-- cd microsoft-home-page-clone
+
+-then   
+   ```sh
+   cd facebook-signup-page-clone
 
 - npm install
 
